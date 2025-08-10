@@ -1,6 +1,4 @@
-# DicomWebServer-dotnet
-
-# DICOMweb Server for OHIF Viewer
+# DICOMweb Server using dotnet for OHIF Viewer
 
 A lightweight DICOMweb server implementation built with .NET and C# from scratch. This server implements the minimal set of DICOMweb endpoints required for OHIF Viewer to function correctly.
 
