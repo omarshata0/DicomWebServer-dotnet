@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Uk0oOHdH7C09P34foBZKAj2fFky3uQDpMqis+ToFIkg=",
+  "Source": "DicomWebFsServer",
+  "BasePath": "_content/DicomWebFsServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

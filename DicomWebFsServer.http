@@ -1,0 +1,6 @@
+@DicomWebFsServer_HostAddress = http://localhost:5152
+
+GET {{DicomWebFsServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
