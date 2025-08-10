@@ -1,0 +1,215 @@
+# .gitignore for DICOMweb Server
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Bb]uild[Ll]og.*
+[Vv]isual[Ss]tudio*
+
+## IDE
+*.vs/
+*.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Visual Studio 2015+ cache/options
+.vscode/
+*.swp
+*.lock
+**/*.log
+
+## Visual Studio 2017+ cache/options
+*.vspscc
+*.vssscc
+
+## MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+## NUnit
+*.VisualState.xml
+TestResult.xml
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## StyleCop
+StyleCopReport.xml
+
+## Files created by Visual Studio
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+*.vssscc
+*.pidb
+*.userprefs
+*.ide/
+*.cache
+*.svclog
+
+## OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+## Code
+*.pyc
+*.pyo
+*.rej
+*~
+
+## Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.staging.local
+
+## Docker
+.dockerignore
+
+## Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+## DICOM files (optional - uncomment if you don't want to commit DICOM data)
+# *.dcm
+# *.dicom
+
+## Log files
+*.log
+logs/
+
+## User specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+## Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+## Temporary files
+*.tmp
+*.temp
+*Temp*
+~*
+
+## NuGet
+*.nuget.props
+*.nuget.targets
+packages/
+*.nupkg
+
+## ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## TeamCity
+_TeamCity*
+
+## DotCover
+*.dotCover
+
+## NCover
+*.ncover
+
+## DocFX
+_docs/
+
+## Azure Functions
+local.settings.json
+local.appsettings.json
+
+## Rider
+*.DotSettings
+*.pidb
+*.userprefs
+_Rider/
+
+## Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+## Linux
+*~
+
+## IDE specific files
+*.idea/
+*.vscode/
+*.sublime-project
+*.sublime-workspace
+
+## Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+## SonarQube
+.sonarqube/
+
+## User secrets
+secrets.json
+appsettings.Development.json
+appsettings.Local.json
+
+## Temporary folders
+temp/
+tmp/
+
+## Package lock files
+package-lock.json
+yarn.lock

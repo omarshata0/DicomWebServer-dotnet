@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DicomWebFsServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2038e6eb9191092c51c7629382c453f0a609d05f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DicomWebFsServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DicomWebFsServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

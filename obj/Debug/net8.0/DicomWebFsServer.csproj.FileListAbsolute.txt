@@ -109,3 +109,4 @@
 /home/omar-shata/Omar/HealthTOM/dicomWebServer/DicomWebServer-dotnet/bin/Debug/net8.0/runtimes/osx-x64/native/Dicom.Native.dylib
 /home/omar-shata/Omar/HealthTOM/dicomWebServer/DicomWebServer-dotnet/bin/Debug/net8.0/runtimes/win-arm64/native/Dicom.Native.dll
 /home/omar-shata/Omar/HealthTOM/dicomWebServer/DicomWebServer-dotnet/bin/Debug/net8.0/runtimes/win-x64/native/Dicom.Native.dll
+/home/omar-shata/Omar/HealthTOM/dicomWebServer/DicomWebServer-dotnet/obj/Debug/net8.0/DicomWebFsServer.sourcelink.json
